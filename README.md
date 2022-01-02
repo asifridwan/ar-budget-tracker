@@ -2,9 +2,11 @@
 
 This is a simple budget tracker app created by me using react that allows the user to plan their budget and save money !
 
-It uses the 'UseState' hook as well the Context API bulit in React
+It uses Hooks as well the Context API which is bulit in React
 
 Feel free to mess around with the code to see how I made it 
+
+Check out the live version here : https://asifridwan.github.io/ar-budget-tracker/
 
 ![Alt Text](https://raw.githubusercontent.com/asifridwan/ar-budget-tracker/main/demo/app-demo.gif)
 
