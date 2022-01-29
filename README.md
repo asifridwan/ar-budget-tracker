@@ -6,7 +6,7 @@ It uses Hooks as well the Context API which is bulit in React
 
 Feel free to mess around with the code to see how I made it 
 
-Check out the live version here : https://asifridwan.github.io/ar-budget-tracker/
+Check out the live version [over here](https://asifridwan.github.io/ar-budget-tracker/)
 
 ![Alt Text](https://raw.githubusercontent.com/asifridwan/ar-budget-tracker/main/demo/app-demo.gif)
 
